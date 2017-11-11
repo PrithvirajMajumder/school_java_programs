@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SumOfTheSeries
+comment1.params=num
+comment1.target=int\ getSum(int)
+comment2.params=n
+comment2.target=int\ getFactorial(int)
+comment3.params=
+comment3.target=void\ display()
+numComments=4

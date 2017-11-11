@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=IndianStates
+comment1.params=
+comment1.target=void\ display()
+comment1.text=int[]\ bubbleSort(int\ n[],\ boolean\ ascending)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ int\ limit\ \=\ n.length,\ i,\ j,\ t;\r\n\ \ \ \ \ \ \ \ for(i\ \=\ 0;\ i<(limit-1);\ i++)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ for(j\ \=\ 0;\ j<(limit-1)-i;\ j++)\r\n\ \ \ \ \ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ if(ascending)\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ if(n[j]>n[j+1])\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ t\=n[j];\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ n[j]\ \=\ n[j\ +\ 1];\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ n[j+1]\=\ t;\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }\ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ return\ \ n;\r\n}
+numComments=2

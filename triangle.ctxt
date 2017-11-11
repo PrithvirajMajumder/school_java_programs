@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=a\ b\ c
+comment0.target=boolean\ isEquilateral(int,\ int,\ int)
+comment1.params=a\ b\ c
+comment1.target=boolean\ isIsosceles(int,\ int,\ int)
+comment2.params=a\ b\ c
+comment2.target=boolean\ isScalene(int,\ int,\ int)
+comment3.params=
+comment3.target=void\ display()
+numComments=4

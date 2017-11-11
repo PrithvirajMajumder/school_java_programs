@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=search_prog10
+comment1.params=n
+comment1.target=boolean\ isEven(int)
+comment2.params=n
+comment2.target=boolean\ isOdd(int)
+comment3.params=
+comment3.target=void\ display()
+numComments=4

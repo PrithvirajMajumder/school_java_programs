@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=perimiter
+comment1.params=s
+comment1.target=double\ getSquare(double)
+comment2.params=l\ b
+comment2.target=double\ getRectangle(double,\ double)
+comment3.params=r
+comment3.target=double\ getCircle(double)
+comment4.params=
+comment4.target=void\ Display()
+numComments=5

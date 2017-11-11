@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Strng_prog_21
+comment1.params=s
+comment1.target=java.lang.String\ alphabeticOrder(java.lang.String)
+comment1.text=\r\n\ Function\ to\ sort\ word\ in\ alphabetical\ order\r\n
+comment2.params=sentence
+comment2.target=java.lang.String[]\ explode(java.lang.String)
+comment2.text=\r\n\ Function\ to\ get\ an\ array\ of\ words\ from\ a\ sentence\r\n
+comment3.params=s
+comment3.target=int\ countWords(java.lang.String)
+comment3.text=\r\n\ Function\ to\ get\ the\ total\ number\ of\ words\ in\ a\ sentence\r\n
+comment4.params=
+comment4.target=void\ display()
+numComments=5

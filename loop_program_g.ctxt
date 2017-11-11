@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=double\ getFactorial(double)
+comment1.params=n
+comment1.target=boolean\ isPrime(double)
+comment2.params=n
+comment2.target=boolean\ isEven(double)
+comment3.params=
+comment3.target=void\ display()
+numComments=4

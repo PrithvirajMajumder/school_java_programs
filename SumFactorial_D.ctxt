@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ getFactorial(int)
+comment1.params=n
+comment1.target=boolean\ isOdd(int)
+comment2.params=
+comment2.target=void\ display()
+numComments=3

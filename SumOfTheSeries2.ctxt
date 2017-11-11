@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=int\ getSum(int)
+comment1.params=num
+comment1.target=int\ getMultiply(int)
+comment2.params=
+comment2.target=void\ display()
+numComments=3

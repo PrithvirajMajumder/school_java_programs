@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=b\ h
+comment0.target=double\ getParallel(double,\ double)
+comment1.params=d1\ d2
+comment1.target=double\ getRohmbus(double,\ double)
+comment2.params=a\ b
+comment2.target=double\ getTrap(double,\ double)
+comment3.params=
+comment3.target=void\ Display()
+numComments=4

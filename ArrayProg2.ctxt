@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=boolean\ isNegetiveOdd(int)
+comment1.params=n
+comment1.target=boolean\ isNegetiveEven(int)
+comment2.params=n
+comment2.target=boolean\ isPositiveOdd(int)
+comment3.params=n
+comment3.target=boolean\ isPositiveEven(int)
+comment4.params=
+comment4.target=void\ display()
+numComments=5

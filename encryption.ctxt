@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=encryption
+comment1.params=
+comment1.target=encryption()
+comment2.params=ch
+comment2.target=char\ getNextChar(char)
+comment3.params=c
+comment3.target=boolean\ isVowel(char)
+comment3.text=boolean\ isLastCharacter(String\ s,\ char\ c)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ return\ s.charAt(s.length()\ -\ 1)\ \=\=\ c;\r\n\ \ \ \ }\r\n\ \ \ \ boolean\ isFirstCharacter(String\ s,\ char\ c)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ return\ s.charAt(0)\ \=\=\ c;\r\n}
+comment4.params=ch
+comment4.target=char\ changeCase(char)
+comment5.params=s
+comment5.target=java.lang.String\ getEncrypted(java.lang.String)
+comment6.params=
+comment6.target=void\ setLength()
+numComments=7

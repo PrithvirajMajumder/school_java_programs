@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Array_prog_22
+comment1.params=n\ names
+comment1.target=void\ sortByrank(int[],\ java.lang.String[])
+comment2.params=
+comment2.target=void\ display()
+numComments=3

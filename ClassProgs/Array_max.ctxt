@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Array_max
+comment1.params=
+comment1.target=void\ inputData()
+comment2.params=
+comment2.target=void\ findMax()
+comment3.params=
+comment3.target=void\ outputData()
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Increment
+comment1.params=n\ b\ a
+comment1.target=void\ getData(java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=void\ calculate()
+comment3.params=
+comment3.target=void\ display()
+numComments=4

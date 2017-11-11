@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Security
+comment1.params=name\ hour\ rate
+comment1.target=void\ get(java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=void\ calwage()
+comment3.params=
+comment3.target=void\ display()
+numComments=4

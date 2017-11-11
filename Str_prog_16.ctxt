@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Str_prog_16
+comment1.params=s
+comment1.target=void\ charDeletion(java.lang.String)
+comment2.params=s
+comment2.target=java.lang.String\ wordSort(java.lang.String)
+numComments=3

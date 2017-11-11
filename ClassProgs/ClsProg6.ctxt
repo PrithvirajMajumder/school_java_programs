@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ClsProg6
+comment1.params=n\ add\ cy\ s
+comment1.target=ClsProg6(java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=void\ outputData()
+comment3.params=
+comment3.target=void\ calculate()
+comment4.params=
+comment4.target=void\ display()
+numComments=5
