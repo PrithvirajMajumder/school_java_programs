@@ -22,6 +22,7 @@ class Rank extends Record
     
     void display()
     {
-        System.out.print("The Student who got highest rank " + this.name[this.lowestRankIndex] + "  " + this.rank[this.lowestRankIndex]);
+        System.out.print("The Student who got highest rank " + this.name[this.lowestRankIndex]);
+        System.out.print("Rank is: " + this.rank[this.lowestRankIndex]);
     }
 }
