@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Electric
+comment1.params=name\ add\ cmr\ pmr\ billDate
+comment1.target=Electric(java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ diplay()
+comment3.params=
+comment3.target=void\ calCharges()
+numComments=4
