@@ -2,62 +2,72 @@ package Datastructure;
 import java.util.Scanner;
 class Queue
 {
-    int q[] = new int[20];
-    int f, r, size;
-    Queue(int n)
+    int queue[];
+    int front, rear;
+    Queue(int size)
     {
-        for(int i = 0; i<20; i++)
+        this.queue = new int [size];
+        front = -1; rear = -1;
+        for(int i = 0; i<this.queue.length; i++)
         {
-            q[i] = 0;
-            f = -1; r = 1;
-            size = n;
+            queue[i] = 0;
         }
     }
-    void insertQueue(int item)
+    
+    void insert(int item)
     {
-        if(r == size-1)
+        if(rear == this.queue.length-1)
         {
             System.out.print("Queue Overflow !! ");
         }
         else
         {
-            if(f == -1 && r == -1)
+            if(front == -1 && rear == -1)
             {
-                f = 0;
-                r = 0;
+                front = 0;
+                rear = 0;
             }
             else
             {
-                r += 1;
-                q[r] = item;
+                rear++;
             }
+            queue[rear] = item;
         }
     }
-    void deleteQueue()
+    
+    void delete()
     {
-        if(f == -1 && r == -1)
+        if(front == -1 && rear == -1)
         {
             System.out.println("Queue underflow !! ");
         }
         else
         {
-            if(f == r)
+            if(front == rear)
             {
-                f = -1;
-                r = -1;
+                front = -1;
+                rear = -1;
             }
+            
             else
             {
-                f += 1;
+                this.queue[front] = 0;
+                front++;
             }
         }
     }
+    
     void display()
     {
         System.out.println("Elements of the queue");
-        for(int j = f; j <= r; j++)
+        for(int j = front; j <= rear; j++)
         {
-            System.out.println(q[j]);
+            System.out.println(queue[j]);
         }
+    }
+    
+    static void main()
+    {
+        
     }
 }

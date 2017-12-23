@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Author
+comment1.params=
+comment1.target=Author()
+comment2.params=nm\ an
+comment2.target=Author(java.lang.String,\ int)
+comment3.params=s
+comment3.target=void\ sop(java.lang.String)
+comment4.params=
+comment4.target=void\ show()
+numComments=5
