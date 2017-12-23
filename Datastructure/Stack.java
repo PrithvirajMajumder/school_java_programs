@@ -66,6 +66,7 @@ class Stack
     public static void main()
     {
         Scanner sc = new Scanner(System.in);
+        System.out.print("Enter the limit : ");
         int limit = sc.nextInt();
         Stack stk = new Stack(limit);
         int choice;
